@@ -1,7 +1,5 @@
-import sys
-sys.path.append("..")
-
 import json
+import sys
 
 from utils import clear, write_file
 from constants import JOBERTY_FILE_PATH_TODAY, switch_employee_numbers, switch_empy_num_variation

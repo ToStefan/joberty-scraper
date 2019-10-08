@@ -1,6 +1,3 @@
-import sys
-sys.path.append("..")
-
 from constants import switch_industry, JOBERTY_FILE_PATH_TODAY
 from utils import write_file, get_json
 
